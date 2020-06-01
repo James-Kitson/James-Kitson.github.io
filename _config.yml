@@ -68,7 +68,7 @@ og_image                 :  # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links			 : # An array of links to social media profiles
 
 
 # Analytics
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "James JN Kitson"
   avatar           : "Kitson.jpeg"
-  bio              : "I am a molecular ecologist working on using DNA/RNA based tools for detecting species interactions and looking at community assembly"
+  bio              : "I am a molecular ecologist working on using DNA/RNA based tools for detecting species interactions and looking at community assembly. I am currently mostly researching biocontrol in the Oak Processionary Moth in the UK but also have a long standing interesting interest in the assembly of island faunas."
   location         : "Newcastle upon Tyne, United Kingdom"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "Newcastle University"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.uk/citations?user=qOgUVEQAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-2405-1198"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
