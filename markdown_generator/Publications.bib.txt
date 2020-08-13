@@ -1,0 +1,309 @@
+﻿
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Macgregor2019-mo,
+  title     = "Construction, validation, and application of nocturnal pollen
+               transport networks in an agro‐ecosystem: a comparison using
+               light microscopy and {DNA} metabarcoding",
+  author    = "Macgregor, Callum J and Kitson, James J N and Fox, Richard and
+               Hahn, Christoph and Lunt, David H and Pocock, Michael J O and
+               Evans, Darren M",
+  abstract  = "1. Moths are globally relevant as pollinators but nocturnal
+               pollination remains poorly understood. Plant--pollinator
+               interaction networks are traditionally constructed using either
+               flower‐visitor observations or pollen‐transport detection using
+               microscopy. Recent studies …",
+  journal   = "Ecol. Entomol.",
+  publisher = "Wiley Online Library",
+  volume    =  44,
+  number    =  1,
+  pages     = "17--29",
+  year      =  2019
+}
+
+@ARTICLE{Kitson2018-ey,
+  title     = "Community assembly and diversification in a species-rich
+               radiation of island weevils (Coleoptera: Cratopini)",
+  author    = "Kitson, James J N and Warren, Ben H and Th{\'e}baud, Christophe
+               and Strasberg, Dominique and Emerson, Brent C",
+  abstract  = "Abstract Aim To test a prediction derived from island
+               biogeographical theory that in situ speciation should make an
+               increasingly important contribution to community assembly as
+               islands age. This prediction is tested on estimated
+               biogeographical histories from Mauritius (approximately 9 Myr)
+               and Reunion (approximately 5 Myr). We additionally investigate
+               the evolutionary dynamics of insect flight loss, as the loss of
+               flight in island lineages can influence patterns of
+               diversification. Location Mascarene Islands; Southwest Indian
+               Ocean. Taxon Weevils. Methods Up to five individuals of each
+               taxonomically described species sampled within each sampling
+               site were sequenced for the mitochondrial gene Cytochrome
+               Oxidase II to delimit operational taxonomic units (OTUs). OTUs
+               were further sequenced for the nuclear genes Arginine Kinase,
+               Histone 3 and ribosomal 28s, to reconstruct the phylogenetic
+               history of the group. Timings of colonization and in situ
+               speciation events were estimated with beast2. Results Our
+               results support the hypothesis that present-day species richness
+               on the older island of Mauritius is largely the result of in
+               situ speciation, with few colonization events, of which all but
+               the most basal are recent. In contrast, Reunion presents a more
+               uniform temporal spectrum of colonization times. Flight loss has
+               evolved convergently at least five times, and speciation events
+               associated with flight loss are significantly younger than
+               speciation events that have not resulted in flight loss. Main
+               conclusions Patterns of community assembly on the islands of
+               Mauritius and Reunion fit a model where the addition of new
+               species and species turnover is increasingly dominated by in
+               situ speciation as an island community matures. Repeated flight
+               loss indicates selection for flightlessness, with the young age
+               of flightless lineages suggesting higher extinction rates over
+               longer evolutionary time-scales and little influence on
+               present-day species richness.",
+  journal   = "J. Biogeogr.",
+  publisher = "Wiley Online Library",
+  volume    =  45,
+  number    =  9,
+  pages     = "2016--2026",
+  month     =  sep,
+  year      =  2018
+}
+
+@ARTICLE{Derocles2018-sw,
+  title     = "Chapter One - Biomonitoring for the 21st Century: Integrating
+               {Next-Generation} Sequencing Into Ecological Network Analysis",
+  author    = "Derocles, St{\'e}phane A P and Bohan, David A and Dumbrell, Alex
+               J and Kitson, James J N and Massol, Fran{\c c}ois and Pauvert,
+               Charlie and Plantegenest, Manuel and Vacher, Corinne and Evans,
+               Darren M",
+  editor    = "Bohan, David A and Dumbrell, Alex J and Woodward, Guy and
+               Jackson, Michelle",
+  abstract  = "Ecological network analysis (ENA) provides a mechanistic
+               framework for describing complex species interactions,
+               quantifying ecosystem services, and examining the impacts of
+               environmental change on ecosystems. In this chapter, we
+               highlight the importance and potential of ENA in future
+               biomonitoring programs, as current biomonitoring indicators
+               (e.g. species richness, population abundances of targeted
+               species) are mostly descriptive and unable to characterize the
+               mechanisms that underpin ecosystem functioning. Measuring the
+               robustness of multilayer networks in the long term is one way of
+               integrating ecological metrics more generally into biomonitoring
+               schemes to better measure biodiversity and ecosystem
+               functioning. Ecological networks are nevertheless difficult and
+               labour-intensive to construct using conventional approaches,
+               especially when building multilayer networks in poorly studied
+               ecosystems (i.e. many tropical regions). Next-generation
+               sequencing (NGS) provides unprecedented opportunities to rapidly
+               build highly resolved species interaction networks across
+               multiple trophic levels, but are yet to be fully exploited. We
+               highlight the impediments to ecologists wishing to build
+               DNA-based ecological networks and discuss some possible
+               solutions. Machine learning and better data sharing between
+               ecologists represent very important areas for advances in
+               NGS-based networks. The future of network ecology is very
+               exciting as all the tools necessary to build highly resolved
+               multilayer networks are now within ecologists reach.",
+  publisher = "Academic Press",
+  volume    =  58,
+  pages     = "1--62",
+  month     =  jan,
+  year      =  2018,
+  keywords  = "Ecological network; Food web; Next-generation sequencing;
+               Molecular approach; Metabarcoding; Machine learning; Ecosystem
+               services; Environmental changes; Robustness; Biomonitoring"
+}
+
+@ARTICLE{Kitson2019-rl,
+  title    = "Detecting host-parasitoid interactions in an invasive
+              Lepidopteran using nested tagging {DNA} metabarcoding",
+  author   = "Kitson, James J N and Hahn, Christoph and Sands, Richard J and
+              Straw, Nigel A and Evans, Darren M and Lunt, David H",
+  abstract = "Determining the host-parasitoid interactions and parasitism rates
+              for invasive species entering novel environments is an important
+              first step in assessing potential routes for biocontrol and
+              integrated pest management. Conventional insect rearing
+              techniques followed by taxonomic identification are widely used
+              to obtain such data, but this can be time-consuming and prone to
+              biases. Here, we present a next-generation sequencing approach
+              for use in ecological studies which allows for individual-level
+              metadata tracking of large numbers of invertebrate samples
+              through the use of hierarchically organised molecular
+              identification tags. We demonstrate its utility using a sample
+              data set examining both species identity and levels of parasitism
+              in late larval stages of the oak processionary moth (Thaumetopoea
+              processionea-Linn. 1758), an invasive species recently
+              established in the United Kingdom. Overall, we find that there
+              are two main species exploiting the late larval stages of oak
+              processionary moth in the United Kingdom with the main parasitoid
+              (Carcelia iliaca-Ratzeburg, 1840) parasitising 45.7\% of
+              caterpillars, while a rare secondary parasitoid (Compsilura
+              concinnata-Meigen, 1824) was also detected in 0.4\% of
+              caterpillars. Using this approach on all life stages of the oak
+              processionary moth may demonstrate additional parasitoid
+              diversity. We discuss the wider potential of nested tagging DNA
+              metabarcoding for constructing large, highly resolved species
+              interaction networks.",
+  journal  = "Mol. Ecol.",
+  volume   =  28,
+  number   =  2,
+  pages    = "471--483",
+  month    =  jan,
+  year     =  2019,
+  keywords = "biocontrol; invasive species; nested tagging; parasitism; species
+              interactions",
+  language = "en"
+}
+
+@ARTICLE{Evans2016-fn,
+  title    = "Merging {DNA} metabarcoding and ecological network analysis to
+              understand and build resilient terrestrial ecosystems",
+  author   = "Evans, Darren M and Kitson, James J N and Lunt, David H and
+              Straw, Nigel A and Pocock, Michael J O",
+  abstract = "* Significant advances in both mathematical and molecular
+              approaches in ecology offer unprecedented opportunities to
+              describe and understand ecosystem functioning. Ecological
+              networks describe interactions between species, the underlying
+              structure of communities and the function and stability of
+              ecosystems. They provide the ability to assess the robustness of
+              complex ecological communities to species loss, as well as a
+              novel way of guiding restoration. However, empirically
+              quantifying the interactions between entire communities remains a
+              significant challenge. * Concomitantly, advances in DNA
+              sequencing technologies are resolving previously intractable
+              questions in functional and taxonomic biodiversity and provide
+              enormous potential to determine hitherto difficult to observe
+              species interactions. Combining DNA metabarcoding approaches with
+              ecological network analysis presents important new opportunities
+              for understanding large-scale ecological and evolutionary
+              processes, as well as providing powerful tools for building
+              ecosystems that are resilient to environmental change. * We
+              propose a novel `nested tagging' metabarcoding approach for the
+              rapid construction of large, phylogenetically structured
+              species-interaction networks. Taking tree--insect--parasitoid
+              ecological networks as an illustration, we show how measures of
+              network robustness, constructed using DNA metabarcoding, can be
+              used to determine the consequences of tree species loss within
+              forests, and forest habitat loss within wider landscapes. By
+              determining which species and habitats are important to network
+              integrity, we propose new directions for forest management. *
+              Merging metabarcoding with ecological network analysis provides a
+              revolutionary opportunity to construct some of the largest,
+              phylogenetically structured species-interaction networks to date,
+              providing new ways to: (i) monitor biodiversity and ecosystem
+              functioning; (ii) assess the robustness of interacting
+              communities to species loss; and (iii) build ecosystems that are
+              more resilient to environmental change. A lay summary is
+              available for this article.",
+  journal  = "Funct. Ecol.",
+  volume   =  30,
+  number   =  12,
+  pages    = "1904--1916",
+  month    =  dec,
+  year     =  2016,
+  keywords = "food webs; forestry; host--parasitoid interactions; invasive
+              species; next-generation sequencing"
+}
+
+@ARTICLE{Sands2015-ce,
+  title    = "\textit{Carcelia Iliaca} (Diptera: Tachinidae), a specific
+              parasitoid of the Oak Processionary Moth (Lepidoptera:
+              Thaumetopoeidae), new to Great Britain",
+  author   = "Sands, Richard J and Jonusas, Gillian and Straw, Nigel A and
+              Kitson, James J N and Raper, Chris M",
+  abstract = "Carcelia iliaca (Ratzeburg) is added to the British list based on
+              a specimen collected from Richmond Park in Surrey. Morphological
+              features distinguishing C. iliaca from other tachinid species are
+              presented, along with notes on its known distribution and
+              biology. The Cytochrome c oxidase subunit I (COX1) DNA sequence
+              unique to C. iliaca was characterised to provide a specific
+              molecular tool for future identification.",
+  journal  = "Br. J. Entomol. Nat. Hist.",
+  volume   =  28,
+  number   =  4,
+  pages    = "225--227",
+  year     =  2015
+}
+
+@ARTICLE{Lumley2015-ot,
+  title    = "Sexual selection protects against extinction",
+  author   = "Lumley, Alyson J and Michalczyk, {\L}ukasz and Kitson, James J N
+              and Spurgin, Lewis G and Morrison, Catriona A and Godwin, Joanne
+              L and Dickinson, Matthew E and Martin, Oliver Y and Emerson,
+              Brent C and Chapman, Tracey and Gage, Matthew J G",
+  abstract = "Reproduction through sex carries substantial costs, mainly
+              because only half of sexual adults produce offspring. It has been
+              theorized that these costs could be countered if sex allows
+              sexual selection to clear the universal fitness constraint of
+              mutation load. Under sexual selection, competition between
+              (usually) males and mate choice by (usually) females create
+              important intraspecific filters for reproductive success, so that
+              only a subset of males gains paternity. If reproductive success
+              under sexual selection is dependent on individual condition,
+              which is contingent to mutation load, then sexually selected
+              filtering through 'genic capture' could offset the costs of sex
+              because it provides genetic benefits to populations. Here we test
+              this theory experimentally by comparing whether populations with
+              histories of strong versus weak sexual selection purge mutation
+              load and resist extinction differently. After evolving replicate
+              populations of the flour beetle Tribolium castaneum for 6 to 7
+              years under conditions that differed solely in the strengths of
+              sexual selection, we revealed mutation load using inbreeding.
+              Lineages from populations that had previously experienced strong
+              sexual selection were resilient to extinction and maintained
+              fitness under inbreeding, with some families continuing to
+              survive after 20 generations of sib $\times$ sib mating. By
+              contrast, lineages derived from populations that experienced weak
+              or non-existent sexual selection showed rapid fitness declines
+              under inbreeding, and all were extinct after generation 10.
+              Multiple mutations across the genome with individually small
+              effects can be difficult to clear, yet sum to a significant
+              fitness load; our findings reveal that sexual selection reduces
+              this load, improving population viability in the face of genetic
+              stress.",
+  journal  = "Nature",
+  volume   =  522,
+  number   =  7557,
+  pages    = "470--473",
+  month    =  jun,
+  year     =  2015
+}
+
+@ARTICLE{Kitson2013-oz,
+  title    = "Molecular characterization of trophic ecology within an island
+              radiation of insect herbivores (Curculionidae: Entiminae:
+              Cratopus)",
+  author   = "Kitson, James J N and Warren, Ben H and Florens, F B Vincent and
+              Baider, Claudia and Strasberg, Dominique and Emerson, Brent C",
+  abstract = "The phytophagous beetle family Curculionidae is the most
+              species-rich insect family known, with much of this diversity
+              having been attributed to both co-evolution with food plants and
+              host shifts at key points within the early evolutionary history
+              of the group. Less well understood is the extent to which
+              patterns of host use vary within or among related species,
+              largely because of the technical difficulties associated with
+              quantifying this. Here we develop a recently characterized
+              molecular approach to quantify diet within and between two
+              closely related species of weevil occurring primarily within dry
+              forests on the island of Mauritius. Our aim is to quantify
+              dietary variation across populations and assess adaptive and
+              nonadaptive explanations for this and to characterize the nature
+              of a trophic shift within an ecologically distinct population
+              within one of the species. We find that our study species are
+              polyphagous, consuming a much wider range of plants than would be
+              suggested by the literature. Our data suggest that local diet
+              variation is largely explained by food availability, and locally
+              specialist populations consume food plants that are not
+              phylogenetically novel, but do appear to represent a novel
+              preference. Our results demonstrate the power of molecular
+              methods to unambiguously quantify dietary variation across
+              populations of insect herbivores, providing a valuable approach
+              to understanding trophic interactions within and among local
+              plant and insect herbivore communities.",
+  journal  = "Mol. Ecol.",
+  volume   =  22,
+  number   =  21,
+  pages    = "5441--5455",
+  month    =  sep,
+  year     =  2013,
+  keywords = "chloroplast; insect; plant; trophic ecology; weevil"
+}
